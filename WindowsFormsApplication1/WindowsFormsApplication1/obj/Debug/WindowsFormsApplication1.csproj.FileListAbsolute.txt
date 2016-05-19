@@ -1,1 +1,2 @@
 E:\Documents\GitHub\Test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Documents\GitHub\Test\Test\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
